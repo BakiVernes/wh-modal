@@ -1,0 +1,22 @@
+{
+  "name": "@zgembo/wh-modal-component",
+  "version": "1.0.0",
+  "description": "A dependency free modal web-component",
+  "main": "wh-modal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BakiVernes/wh-modal.git"
+  },
+  "keywords": [
+    "modal"
+  ],
+  "author": "zgembo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BakiVernes/wh-modal/issues"
+  },
+  "homepage": "https://github.com/BakiVernes/wh-modal#readme"
+}
